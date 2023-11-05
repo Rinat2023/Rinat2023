@@ -4,7 +4,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
@@ -34,12 +34,10 @@
 
 ###
 
-<img align="right" src="https://profile-counter.glitch.me/Rinat2023/count.svg?"  />
-
-###
-
-<div align="center">
-  <img height="200" src="https://media2.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif"  />
+<div align="right">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="49" height="20" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="49" height="20" alt="telegram logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/slack/default.svg" width="49" height="20" alt="slack logo"  />
 </div>
 
 ###
@@ -53,10 +51,12 @@
 
 ###
 
+<img align="right" src="https://profile-counter.glitch.me/Rinat2023/count.svg?"  />
+
+###
+
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/slack/default.svg" width="52" height="40" alt="slack logo"  />
+  <img height="200" src="https://media2.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif"  />
 </div>
 
 ###
