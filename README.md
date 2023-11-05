@@ -1,8 +1,6 @@
+<br clear="both">
+
 <h1 align="left">Hey 🫵 🤙 me!</h1>
-
-###
-
-<img align="right" src="https://profile-counter.glitch.me/Rinat2023/count.svg?"  />
 
 ###
 
@@ -32,6 +30,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="40" alt="webpack logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" alt="slack logo"  />
+</div>
+
+###
+
+<img align="right" src="https://profile-counter.glitch.me/Rinat2023/count.svg?"  />
+
+###
+
+<div align="center">
+  <img height="200" src="https://media2.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif"  />
 </div>
 
 ###
