@@ -53,9 +53,3 @@
 <img align="right" src="https://profile-counter.glitch.me/Rinat2023/count.svg?"  />
 
 ###
-
-<div align="left">
-  <img height="200" src="https://media2.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif"  />
-</div>
-
-###
